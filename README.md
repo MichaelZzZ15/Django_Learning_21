@@ -1,6 +1,6 @@
 # Learning Two
 
-SXxxx
+SXx
 
 ## Local Development added by MZ
 
