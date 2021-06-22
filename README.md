@@ -6,5 +6,5 @@ SXxxx
 
 1. Open Index.html in browser
 2. Feature MZ adding new comments here.
-3. GG SMD
+3. GG SMD!
    
